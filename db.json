@@ -16,18 +16,12 @@
       "ingredients": "Butter and flour (for roux), gruyere cheese, salt and pepper to taste"
     }
   ],
-  "categories": [
+  "contacts": [
     {
       "id": "0",
-      "name": "Tech"
-    },
-    {
-      "id": "1",
-      "name": "Financial Independence"
-    },
-    {
-      "id": "2",
-      "name": "Retirement"
+      "fullName": "Maggie Bowen",
+      "email": "margarrb@usc.edu",
+      "inquiry": "I didn't like the french toast, asshole."
     }
   ],
   "comments": [
@@ -40,16 +34,6 @@
       "id": "1",
       "body": "Comment 1",
       "postId": "1"
-    },
-    {
-      "id": "2",
-      "body": "Comment 2",
-      "postId": "1"
-    },
-    {
-      "id": "3",
-      "body": "Comment 3",
-      "postId": "0"
     }
   ],
   "authors": [
