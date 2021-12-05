@@ -14,6 +14,16 @@
       "id": "2",
       "title": "Pasta",
       "ingredients": "Butter and flour (for roux), gruyere cheese, salt and pepper to taste"
+    },
+    {
+      "id": "3",
+      "title": "TestDelete",
+      "ingredients": "made with code"
+    },
+    {
+      "id": "4",
+      "title": "TestDelete",
+      "ingredients": "made with code n such"
     }
   ],
   "contacts": [
@@ -28,24 +38,6 @@
       "fullName": "Ben Bowen",
       "email": "benbpw3@usc.edu",
       "inquiry": "I didn't like it"
-    }
-  ],
-  "comments": [
-    {
-      "id": "0",
-      "body": "Comment 0",
-      "postId": "0"
-    },
-    {
-      "id": "1",
-      "body": "Comment 1",
-      "postId": "1"
-    }
-  ],
-  "authors": [
-    {
-      "id": "0",
-      "name": "David Tang"
     }
   ]
 }
